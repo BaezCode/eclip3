@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "928364084174",
+    "project_id": "tinker-325ab",
+    "storage_bucket": "tinker-325ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928364084174:android:8cd20b892219901f97899f",
+        "android_client_info": {
+          "package_name": "baez.code.setting"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928364084174-ov5m6aglvglcnsr96gnco7p5b33bno87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1eqx2xMM8t2_ZHmbA2TV_KirU56ash1k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928364084174-ov5m6aglvglcnsr96gnco7p5b33bno87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
